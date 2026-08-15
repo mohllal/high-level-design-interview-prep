@@ -32,6 +32,7 @@ In-depth topics that build on the [fundamentals](../fundamentals/README.md). The
 | [Peer-to-Peer Networks](./04-peer-to-peer-networks.md)       | DHTs, Kademlia routing, gossip protocol, churn handling, NAT traversal      |
 | [Kafka Architecture](./05-kafka-architecture.md)             | Distributed log, ISR, leader-epoch fencing, cross-cluster replication       |
 | [PostgreSQL Internals](./06-postgresql-internals.md)         | Heap storage, MVCC, write-ahead log, buffer cache, query planner            |
+| [Distributed File Systems](./07-distributed-file-systems.md)               | GFS/HDFS model, chunking, metadata, replication           |
 
 ---
 
