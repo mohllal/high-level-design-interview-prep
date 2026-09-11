@@ -43,6 +43,7 @@ A curated collection of system design concepts and architecture patterns built a
 **Video learning**
 
 - [Hello Interview - System Design Walkthroughs](https://www.youtube.com/playlist?list=PL5q3E8eRUieWtYLmRU3z94-vGRcwKr9tM)
+- [InterviewLegend](https://interviewlegend.com/guides/system-design) - system design interviews broken down company by company
 
 ## Foundational papers
 
