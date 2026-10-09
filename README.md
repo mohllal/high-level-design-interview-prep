@@ -1,5 +1,11 @@
 # High Level Design Interview Preparation
 
+> [!NOTE]
+> This is part of my personal interview prep. I also have separate repos for:
+>
+> - [Coding](https://github.com/mohllal/coding-interview-prep)
+> - [Low-level design](https://github.com/mohllal/low-level-design-interview-prep)
+
 These are my personal notes and reference materials to help prepare for high-level design interviews.
 
 ## Contents
