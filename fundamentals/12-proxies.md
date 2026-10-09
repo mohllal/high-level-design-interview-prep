@@ -58,7 +58,7 @@ Typical uses:
 - Caching and compression close to the client
 - WAF, rate limiting, and request filtering
 
-This is the type that matters most in system design: it is the single front door where cross-cutting concerns live, so individual services do not each reimplement them.
+This is the type that matters most in high level design: it is the single front door where cross-cutting concerns live, so individual services do not each reimplement them.
 
 ## Sidecar proxy (per-instance)
 

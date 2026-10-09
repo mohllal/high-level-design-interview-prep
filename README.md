@@ -5,11 +5,11 @@ These are my personal notes and reference materials to help prepare for high-lev
 ## Contents
 
 | Section                                  | What it covers                                                                                                                  |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | [Fundamentals](./fundamentals/README.md) | Core building blocks: networking, reliability, caching, databases, distributed systems basics, capacity planning                |
 | [Advanced](./advanced/README.md)         | Deep dives and case studies: OAuth 2.0, multi-region replication, MapReduce, peer-to-peer networks, Kafka, PostgreSQL internals |
 | [Patterns](./patterns/README.md)         | Proven architectural patterns: structural, event-driven, distributed transaction, and resilience patterns                       |
-| [Examples](./examples/README.md)         | Worked system design problems, applied end to end                                                                               |
+| [Examples](./examples/README.md)         | Worked high level design problems, applied end to end                                                                           |
 
 ## Additional resources
 

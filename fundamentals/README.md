@@ -1,4 +1,4 @@
-# System design fundamentals
+# High level Design Fundamentals
 
 Essential building blocks for understanding distributed systems and scalable architectures.
 

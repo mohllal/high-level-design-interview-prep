@@ -62,7 +62,7 @@ Query:
 
 Bits are only ever set, never cleared, which is exactly why a standard filter cannot support deletion: clearing a bit for one item would silently remove every other item that shares it, and that would create false negatives.
 
-## Common system design use cases
+## Common high level design use cases
 
 The pattern is always the same: a fast in-memory "definitely not" short-circuits a slow authoritative lookup.
 

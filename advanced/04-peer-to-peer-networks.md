@@ -268,7 +268,7 @@ sequenceDiagram
 
 Gossip is also the standard way to do **failure detection**. SWIM is the protocol most systems copy: each peer periodically pings one random peer, and on a timeout asks a few other peers to ping it indirectly before declaring it suspect, then dead. The indirect probe is what keeps a single congested link from producing false positives, and separating detection from dissemination is what keeps per-peer load constant.
 
-Used in Cassandra, Consul, Redis Cluster, and Dynamo-style systems — note that these are conventional server clusters, not P2P networks. Gossip is the piece of the P2P toolbox that shows up most often in ordinary system designs, which makes it a good thing to bring up unprompted.
+Used in Cassandra, Consul, Redis Cluster, and Dynamo-style systems — note that these are conventional server clusters, not P2P networks. Gossip is the piece of the P2P toolbox that shows up most often in ordinary high level designs, which makes it a good thing to bring up unprompted.
 
 ## Connectivity and NAT traversal
 

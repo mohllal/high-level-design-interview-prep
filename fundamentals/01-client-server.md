@@ -20,7 +20,7 @@ related:
 
 The client-server model is an architecture where clients (requesters) and servers (providers) communicate over a network to share resources and services.
 
-Almost every system design question starts from this shape, so it is worth being precise about what each side owns.
+Almost every high level design question starts from this shape, so it is worth being precise about what each side owns.
 
 **Core characteristics:**
 

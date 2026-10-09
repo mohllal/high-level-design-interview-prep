@@ -21,7 +21,7 @@ related:
 
 Caching keeps a copy of frequently accessed data in faster storage so that reads avoid the slower system that owns it.
 
-It is one of the highest-leverage techniques in system design: it cuts read latency and shields the origin from load, often turning an order-of-magnitude traffic increase into a non-event.
+It is one of the highest-leverage techniques in high level design: it cuts read latency and shields the origin from load, often turning an order-of-magnitude traffic increase into a non-event.
 
 The cost is correctness. A cache is a second copy of the truth, so most cache design decisions are really decisions about how stale that copy may get and who is responsible for fixing it.
 

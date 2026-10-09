@@ -1,24 +1,4 @@
----
-title: "Advanced system design topics"
-concepts:
-  - index
-  - oauth2
-  - multi-region-replication
-  - mapreduce
-  - peer-to-peer-networks
-  - kafka-architecture
-  - postgresql-internals
-related:
-  - advanced/01-oauth2.md
-  - advanced/02-multi-region-replication.md
-  - advanced/03-mapreduce.md
-  - advanced/04-peer-to-peer-networks.md
-  - advanced/05-kafka-architecture.md
-  - advanced/06-postgresql-internals.md
-  - fundamentals/README.md
----
-
-# Advanced system design topics
+# Advanced High Level Design Topics
 
 In-depth topics that build on the [fundamentals](../fundamentals/README.md). These are specialized notes for when you need deeper coverage in an interview or design discussion.
 

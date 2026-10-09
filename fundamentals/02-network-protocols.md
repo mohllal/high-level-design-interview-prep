@@ -132,7 +132,7 @@ The three-way handshake (SYN, SYN-ACK, ACK) synchronizes sequence numbers and co
 
 TLS negotiates a cipher suite, authenticates the server through its certificate chain, and derives session keys. TLS 1.3 completes this in one round trip (TLS 1.2 needed two), and can resume a previous session in zero round trips.
 
-Two fields in the `ClientHello` matter for system design:
+Two fields in the `ClientHello` matter for high level design:
 
 - **SNI (Server Name Indication)**: Names the host being requested, so one IP can terminate TLS for many domains
 - **ALPN (Application-Layer Protocol Negotiation)**: Agrees on the application protocol during the handshake, which is how a client and server settle on HTTP/2 instead of HTTP/1.1 without an extra round trip

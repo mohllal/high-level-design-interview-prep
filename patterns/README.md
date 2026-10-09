@@ -1,4 +1,4 @@
-# Architecture patterns
+# Architecture Patterns
 
 This section covers proven architectural patterns and approaches for building scalable, highly available systems.
 

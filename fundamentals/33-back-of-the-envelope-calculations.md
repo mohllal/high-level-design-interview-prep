@@ -20,7 +20,7 @@ related:
 
 # Back-of-the-envelope calculations
 
-Back-of-the-envelope calculations are quick approximations used in system design to estimate scale, cost, and bottlenecks.
+Back-of-the-envelope calculations are quick approximations used in high level design to estimate scale, cost, and bottlenecks.
 
 The goal is to land in the right order of magnitude quickly, not to be precise. An answer that is off by 20% still leads to the right architecture; an answer that is off by 1,000x leads to the wrong one.
 

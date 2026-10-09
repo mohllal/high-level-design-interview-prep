@@ -1,17 +1,17 @@
-# System Design Examples
+# High Level Design Examples
 
 This section provides practice problems and designs for real-world systems. Each example includes key architectural decisions, trade-offs, and implementation considerations.
 
 ## 📖 Contents
 
-| System Design Example                                            | Key Concepts                                      |
+| System Example                                                   | Key Concepts                                      |
 |------------------------------------------------------------------|---------------------------------------------------|
 | [URL Shortening System](./01-url-shortening-system.md)           | Hashing, Database design, Caching, Load balancing |
 | [OCR File Processing System](./02-ocr-file-processing-system.md) | OCR, Message queue, Auto-scaling, Storage         |
 
 ## 🍀 Future Examples (To be completed)
 
-The following system designs are intended for future:
+The following high level designs are intended for future:
 
 - **Design Uber**
   - Key concepts: Geospatial indexes, posteriori probability, Viterbi algorithm, Hidden Markov Model

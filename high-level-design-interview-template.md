@@ -1,6 +1,6 @@
-# System Design Interview Template
+# High Level Design Interview Template
 
-A practical template for system design interviews, focusing on the most important aspects that interviewers typically evaluate.
+A practical template for high level design interviews, focusing on the most important aspects that interviewers typically evaluate.
 
 ## 1. Clarify Requirements (5-10 minutes)
 
@@ -206,7 +206,7 @@ graph TD
 
 ## Example Applications
 
-This template can be adapted for various system design problems:
+This template can be adapted for various high level design problems:
 
 - **URL Shortening Service** (like TinyURL)
 - **Social Media Feed** (like Twitter)
