@@ -40,6 +40,10 @@ These are my personal notes and reference materials to help prepare for high-lev
 - *Release It!* — Michael Nygard
 - *Site Reliability Engineering* — Google
 
+### Interactive practice
+
+- [System Designer](https://systemdesigner.io/) - Free browser game for practising system design by drawing an architecture and running a simulated day of traffic through it
+
 ## Contributing
 
 This repository reflects personal learning and interview preparation. It is primarily for personal use, but suggestions and improvements are welcome through issues and pull requests.
